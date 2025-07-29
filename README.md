@@ -1,6 +1,11 @@
  ![Coding](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=0176df&center=true&vCenter=true&width=940&lines=Hello,+world!;)
 
 <div align="center">
+ 
+ ![giphy](https://github.com/user-attachments/assets/e1642c40-d383-43ce-884c-1dc4d6a0970d)
+</div>
+
+<div align="center">
   <h3>Olá, sou a Isabella e sou uma programadora em desenvolvimento 💬</h3> 
 </div>
 
